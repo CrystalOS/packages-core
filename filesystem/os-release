@@ -1,0 +1,7 @@
+NAME="Crystal OS"
+ID=crystalos
+PRETTY_NAME="Crystal OS"
+ANSI_COLOR="1;32"
+HOME_URL="http://crystalos.org/"
+SUPPORT_URL="http://community.crystalos.org/"
+BUG_REPORT_URL="http://bugs.crystalos.org/"
